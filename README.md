@@ -1,2 +1,2 @@
 # SignalRChat
-simple chat app made with C# and ASP.netcore
+simple chat app made with Javascript,C# and ASP.netcore
